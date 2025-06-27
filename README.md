@@ -1,0 +1,2 @@
+# Evaluating-Different-Supervised-Learning-Algorithms
+This project aims to evaluate and compare the performance of different supervised learning algorithms in the context of image classification. By implementing and training a deep learning model and two traditional supervised learning models, this project will conduct a comprehensive evaluation across multiple aspects such as classification accuracy and computational efficiency.
